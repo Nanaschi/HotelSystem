@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using HotelSystem.Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<ApiContext>(
+    opt => opt.UseInMemoryDatabase("BookingDb"));
 
 // Add services to the container.
 

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "N4q9M8o6sizJT5ypVsIeDKKLkHL7/1vmZwarpex0ZHWOZZcc6eoQsuIHd0o+8ecPifhA/39A37b4I0jc/8+Img==",
+  "dgSpecHash": "GxT6Z6B4CLw/nDCp4aLtaiEK0G6b02oUtXIIL3Hy9IIxsbccGIh30VM4Q9+7uI0CEZZVOIl4Om4EzlvLJWRI0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\mi\\RiderProjects\\HotelSystem\\HotelSystem\\HotelSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\mi\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.0\\microsoft.entityframeworkcore.inmemory.6.0.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
