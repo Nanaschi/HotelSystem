@@ -10,10 +10,15 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.0" />
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Areas\api\Controllers" />
+      <Folder Include="Areas\api\Data" />
+      <Folder Include="Areas\api\Models" />
+      <Folder Include="Areas\api\Views" />
       <Folder Include="Controllers" />
     </ItemGroup>
 
